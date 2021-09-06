@@ -31,7 +31,7 @@ git init
   Run ```flutter pub get```
 
 - Step 5   
-(Depending on your machine) close the project, then navigate to where the folder is in your file manager and rename the folder to the name of your project   
+(Depending on your operating system) close the project, then navigate to where the folder is in your file manager and rename the folder to the name of your project   
 
 
 That's all, you can start building.
