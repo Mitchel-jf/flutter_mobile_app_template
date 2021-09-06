@@ -1,8 +1,8 @@
 # Scalable Flutter Mobile App Template
 This template uses GetX for state management and routing
 You can use this template to build mobile apps with flutter.   
-Please note that it may not really work for flutter web
-__This template is courtesy of Mitchel-JF and Kola__
+Please note that it may not really work for flutter web      
+*This template is courtesy of Mitchel-JF and Kola*
 
 # Lint
 
