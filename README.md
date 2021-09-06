@@ -19,16 +19,23 @@ git init
 # How to use
 
 - Step 1  
-  Click on use template, then fill in the necessary details
+  Click on **Use this template**, then fill in the necessary details
 
 - Step 2  
   Once the template is already created on your github profile clone it to your local machine.   
 
 - Step 3  
-  Open the cloned repo and make a global search for **flutter_mobile_app_template**  
+  Open the cloned repo and make a global search for **flutter_mobile_app_template** then replace it with the name of the project you're working on  
 
 - Step 4  
   Run ```flutter pub get```
+
+- Step 5   
+(Depending on your machine) close the project, then navigate to where the folder is in your file manager and rename the folder to the name of your project   
+
+
+That's all, you can start building.
+
 
 
 
